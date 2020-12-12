@@ -16,19 +16,25 @@ Education
 
 Work experience
 ======
-* Fall 2018: Research Intern
-  * Beijing Jiaotong University
-  * Topic: Bike Flow Prediction 
-  * Supervisor: Professor Shuang Ren
-
 * Spring 2019: Research Intern
   * Beijing Jiaotong University
   * Topic: Early-Exit Neural Network
   * Supervisor: Professor Hongzhi Zhao
+
+* Spring 2018: Research Intern
+  * Beijing Jiaotong University
+  * Topic: Fruit Classification using Convolutional Neural Network 
+  * Supervisor: Professor Shuang Ren
+
+* Fall 2017: Research Intern
+  * Beijing Jiaotong University
+  * Topic: User Portrait from E-commerce Website
+  * Supervisor: Professor Shuang Ren
   
 Skills
 ======
 * Python
+* LaTex
 * C++
 
 [Detailed Resume](http://coconut00.github.io/assets/cv.pdf)
