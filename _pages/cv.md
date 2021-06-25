@@ -14,16 +14,21 @@ Education
 * B.S. in Computer Science, Beijing Jiaotong University, 2020
 * M.S. in Computer Engineering, New York University, 2022 (expected)
 
-Work experience
+Research experience
 ======
+* Summer 2021: Research Assistant
+  * New York University
+  * Topic: Sparse Index Tracking
+  * Supervisor: Professor Ivan Selesnick
+
 * Spring 2019: Research Intern
   * Beijing Jiaotong University
   * Topic: Early-Exit Neural Network
   * Supervisor: Professor Hongzhi Zhao
 
-* Spring 2018: Research Intern
+* Fall 2018: Research Intern
   * Beijing Jiaotong University
-  * Topic: Fruit Classification using Convolutional Neural Network 
+  * Topic: Real-time Visualization of Urban Planning
   * Supervisor: Professor Shuang Ren
 
 * Fall 2017: Research Intern
