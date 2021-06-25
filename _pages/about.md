@@ -10,10 +10,8 @@ redirect_from:
 
 I am Shumin An, a graduate student at ECE Department in New York University. Due to the covid-19, I deferred my admission and attended Go-Local program in Shanghai for Spring 2021. Hope everything will be fine and go to NYC as soon as possible. 
 
-I worked as a Quant Analyst at Yearone Investment, from summer 2019 to fall 2020, focusing on using Machine Learning techniques combining fundamental analysis in trading Index Futures and Commodity Futures.  
+I am working as a Quant Researcher at Yearone Investment, starting from Spring 2019, focusing on Options and Index Futures Trading. I am also working with Prof. Ivan Selesnick(https://eeweb.engineering.nyu.edu/iselesni/) on sparse index tracking via nonconvex regularizer.
 
-Broad-speaking, my interests evolve around machine learning and optimization. Also, I find my self more and more interested in inverse problems, like compressed sensing and phase retrieval. However, there is still a lot of things to learn, including the basic knowledge of inverse problem.
-
-I think since inverse problem could be in a constrained optimization problem form, we could analyze it into two parts: the objective function and the constraint(prior). From l1-norm to GAN prior, and the data-free part from Deep Image Prior, the evolution of these methods are considering the prior. That is, under what prior, for what measurement matrix, satisfied what condition, can recovers the signal with high probability. It's truly amazing and I think there is still much to be done.
+Broad-speaking, my interests evolve around optimization and machine learning theory. Also, I find my self more and more interested in the intersection of signal processing and finance. It's amazing that signal processing is actually everywhere in financial engineering, and I believe there is still much things to be done in this area.
 
 

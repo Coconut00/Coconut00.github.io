@@ -15,3 +15,4 @@ Here are some notes about what I have learned about Machine Learning, trying to 
 3. [Linear Classification](http://Coconut00.github.io/assets/linear_classification.pdf)
 4. [Dimension Reduction](http://Coconut00.github.io/assets/dimension_reduction.pdf)
 5. [SVM](http://Coconut00.github.io/assets/svm.pdf)
+6. [Inverse Problems](http://Coconut00.github.io/assets/Inverse_Problem.pdf)
